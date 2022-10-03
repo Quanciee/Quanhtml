@@ -1,0 +1,41 @@
+body{
+    text-align: justify;
+    width:560px;
+    margin: auto;
+    text-align: left;
+}
+#marula{
+    color: rgb(19, 151, 151);
+    font-size: 40px;
+    
+}
+
+#camel{
+    font-size: 15px;
+   
+}
+
+#zouk{
+    text-transform: uppercase;
+    color: white;
+    background-color: rgb(66, 189, 189);
+    font-size: 20px;
+}    
+
+.fote{
+    color: rgb(19, 151, 151);
+    font-size: 10px;
+}
+
+#fote1:hover{
+    color: yellow;
+}
+#fote2:hover{
+    color: yellow;
+}
+#fote3:hover{
+    color: yellow;
+}
+#fote4{
+    margin-left: 460px;
+}
